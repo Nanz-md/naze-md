@@ -2936,6 +2936,7 @@ let alfamart = `628111500959@s.whatsapp.net`
 
 ╭──❍「 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 」❍
 ├ *Nama Bot* : ${pushname}
+├ *Creator* : *NANZ*
 ├ *Mode* : ${naze.public ? 'Public' : `Self`}
 ├ *Prefix* :「 MULTI-PREFIX 」
 ╰──❍
